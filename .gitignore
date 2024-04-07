@@ -1,0 +1,6 @@
+node_modules
+dist
+tailwind.config.js
+package-lock.json
+.parcel-cache/
+.parcel-cache/7d3d872b02d671a6-AssetGraph-0
